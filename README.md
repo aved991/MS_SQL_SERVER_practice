@@ -2,7 +2,7 @@ Just a bunch of sql queries learned and practiced independently over some ecomme
 This repo doesnot contain complex queries, recursive queries, sub queries, advanced Joins, Conditional Functions (CASE) <br>
 
 ## This repo Contains the following topics- <br>
-## - Basic querying, strings functions and arithmatic <br>
+## - Basic querying, strings functions and some arithmetic operations somewhere along the queries <br>
 ## - Aggregate Functions <br>
 ## - Windows Functions <br>
 ## - Common Table Expression <br>
